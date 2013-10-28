@@ -1,4 +1,4 @@
-cgrd-readr
+cgrd-glimp
 ==========
-Raw content of Readr prototype application.
+Raw content of Glimp prototype application.
 
